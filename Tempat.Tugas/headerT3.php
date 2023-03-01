@@ -10,9 +10,9 @@
 <body>
     <header>
         <nav class="navbar navbar-default">
-            <div class="container-fluit">
+            <div class="container-fluid">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -22,9 +22,10 @@
                 </div>
                 <div class="collapse navbar-collapse" id="navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="#">Menu 1</a></li>
-                        <li><a href="#">Menu 2</a></li>
-                        <li><a href="#">Menu 3</a></li>
+                        <li><a href="index.php">Beranda</a></li>
+                        <li><a href="products.php">Produk</a></li>
+                        <li><a href="about.php">Tentang Kami</a></li>
+                        <li><a href="contact.php">Kontak</a></li>
                     </ul>
                 </div>
             </div>
