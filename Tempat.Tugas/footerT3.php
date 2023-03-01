@@ -1,5 +1,5 @@
 <footer>
-    <div class="container-fluit bg-primary w-50px">
+    <div class="container-fluit bg-primary text-light">
         <p class="text-center">&copy; 2023 Halaman Web Sederhana</p>
     </div>
 </footer>
