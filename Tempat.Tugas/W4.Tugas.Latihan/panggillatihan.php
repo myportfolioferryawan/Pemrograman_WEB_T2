@@ -16,4 +16,8 @@ if (isset($_GET['save'])) {
     echo "nomer handphone mu $handphone<br>";
     $jeniskelamin = $_GET['jeniskelamin'];
     echo "jenis Kelamin anda adalah $jeniskelamin<br>";
+    // Validasi input
+    if (empty($name) || empty($email) || empty($password) || empty($tanggallahir) || empty($programstudy) || empty($alamat)) {
+        echo "<script>alert('Semua kolom harus diisi!');</script>";
+    }
 }
