@@ -4,7 +4,9 @@ Program web untuk mengolah nama-nama anggota keluarga anda dengan kriteria sebag
 2. Program menampilkan jumlah kata dan jumlah huruf pada nama yang anda tuliskan.
 3. Program menampilkan kebalikan dari nama yang diinputkan.
 4. Program menampilkan jumlah konsonan dan jumlah vokal pada nama yang telah diinputkan.
+5. contoh coding baru 
 */
+<!-- Deskripsi contoh coding baru untuk di apload -->
 <?php
 // Variabel array untuk menyimpan nama-nama anggota keluarga
 $nama_keluarga = array("Budi", "Siti", "Ani", "Dewi");
